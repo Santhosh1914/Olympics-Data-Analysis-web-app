@@ -1,4 +1,4 @@
-# Olympics-Data-Analysis-web-app
+# Olympics-Data-Analysis-web-Application-py
 A Streamlit web application for the analysis of olympics dataset
 
 
